@@ -77,8 +77,8 @@ npm -v
 1. **Clone the repository** to your machine:
 
    ```bash
-   git clone https://github.com/Haithamaltamemi/rasid.git
-   cd rasid
+   git clone https://github.com/Haithamaltamemi/Rasid.git
+   cd rasid\Rasid App
    ```
 
 2. **Install the packages** (Electron and electron-builder):
