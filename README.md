@@ -100,8 +100,8 @@ npm -v
 1. **نسخ المستودع** إلى جهازك:
 
    ```bash
-   git clone https://github.com/Haithamaltamemi/rasid.git
-   cd rasid
+   git clone https://github.com/Haithamaltamemi/Rasid.git
+   cd rasid\Rasid App
    ```
 
    
