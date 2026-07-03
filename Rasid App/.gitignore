@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Electron builder output
+dist/
+*.exe
+*.app
+
+# سجل الملفات
+*.log
+
+# ملفات نظام التشغيل
+Thumbs.db
+.DS_Store
+
+# ملفات البيئة
+.env
