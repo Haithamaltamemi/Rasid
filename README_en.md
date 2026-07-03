@@ -1,8 +1,14 @@
+
+<div align="center">
+
 # رصيــد 🧾 Rasid
 
 **Customer Account Management System (Egyptian Pound)**
 
 A complete debt and payment management system for markets and retail stores, running entirely as a web application (`index.html` file) in the browser — no server or internet connection required. It can also be built as a standalone Windows executable (`.exe`) using web technologies (HTML/CSS/JavaScript), packaged with **Electron** and **electron-builder**.
+
+
+</div>
 
 ---
 
